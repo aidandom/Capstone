@@ -1,6 +1,6 @@
 # Capstone - Rising Tennis Star Predictor for Sponsor Companies
 
-**Problem Statement: **
+**Problem Statement:**
 
 Are there any indicative match statistics that can forecast a rising tennis star between the ages of 17 and 23?
 
@@ -47,4 +47,5 @@ For this project, I analyzed 2017 data from the Association of Tennis Profession
 	Model resulted in 3 clusters: Elite, Talented, and Average. Overall elite players had a 2% advantage over talented and average players in first serve win percentage, service game win percentage, first serve return win percentage, and second serve return win percentage. However, Talented players had a 2% advantage over all other players in percentage of first serves in play. These results confirmed that first serves are one of the major determining factors for a player’s ranking/skill-level and differentiated the average players from everybody else. These results also confirmed that returns were the other major determining factor for player’s ranking/skill-level. A good return game would allow a player to neutralize the effect of a great server, serving at the main key differentiator between the Elite and Talented groups.
 	Finally, the model itself produced terrific results in predicting future tennis stars. The model returned a list of 10 players in the ranking range of 39-120, who all reflected Elite level stats. Out of these players, currently 90% of them are in the top 50, 60% are in the top 20, and 30% are in the top 10. Given all of this, the model was a success and answers the problem statement that service percentages and return percentages are two key statistical families that give great insight into which players have the potential to be future tennis stars.
 
-
+**Link to Data**
+https://datahub.io/sports-data/atp-world-tour-tennis-data
