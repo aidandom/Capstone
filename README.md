@@ -1,4 +1,4 @@
-# Capstone - Rising Tennis Star Predictor for Sponsor Companies
+# Rising Tennis Star Predictor for Sponsor Companies
 
 **Problem Statement:**
 
